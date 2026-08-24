@@ -1,5 +1,17 @@
 ## Hallooo.. 👋
 
+My Name is **Ardiyan Dias**. <br>
+
+I'm a student majoring in **Informatics Engineering**
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/ardynd">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardynd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardynd&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **ardynd/ardynd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
